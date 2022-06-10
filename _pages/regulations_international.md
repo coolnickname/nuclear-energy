@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /regulations/international
+permalink: /regulations/international/
 title: International regulations
 description: Laws put in place by the United Nations to ensure safe operation of nuclear power plants.
 nav: false

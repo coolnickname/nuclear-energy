@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /regulations/national
+permalink: /regulations/national/
 title: National regulations
 description: Laws put in place by the Dutch government to ensure safe operation of nuclear power plants.
 nav: false
