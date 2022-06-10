@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
-nav: true
+title: Political parties
+permalink: /politics/parties/
+description: A list of all political parties in the Dutch parliament and their opinion on nuclear power.
+nav: false
 nav_order: 1
-display_categories: [work, fun]
+display_categories: [For nuclear energy, Against nuclear energy, Undecided]
 horizontal: false
 ---
 
