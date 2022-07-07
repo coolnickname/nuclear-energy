@@ -11,8 +11,9 @@ The cabinet of Rutte IV has expressed their interest in using nuclear energy as 
 
 Furthermore, the cabinet announced to postpone shutting down the nuclear reactor in Borssele, which is currently the only nuclear power plant operational in the Netherlands and set to close in 2033. This is the second time the reactor which originally would be closed in 2004 has had its closure postponed.
 
-<br><br><br><br><br>
+<br><br><br><br>
 ***
+
 Sources:
 https://www.rijksoverheid.nl/regering/coalitieakkoord-omzien-naar-elkaar-vooruitkijken-naar-de-toekomst/2.-duurzaam-land/klimaat-en-energie
 https://www.rijksoverheid.nl/onderwerpen/duurzame-energie/opwekking-kernenergie
