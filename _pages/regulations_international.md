@@ -17,9 +17,10 @@ The standards are decided very democratically, where every agency, country, orga
 As part of the international safety framework that the IAEA provides has the International Nuclear and Radiological Event Scale (INES) been created. This is a scale that member states can voluntarily use to express the significance of unusual nuclear activities on public safety. The scales ranges from 1 (anomaly) to 7 (major accident) and does so logarithmically, meaning each level is 10 times more severe than the previous. In case an event is considered not relevant to safety it can be attributed as a level 0 event.
 
 <br><br><br><br>
+
 ***
 
-Sources:
+Sources:<br>
 https://www.iaea.org/sites/default/files/21/02/iaea-at-a-glance_2021.pdf
 https://www.iaea.org/topics/emergency-preparedness-and-response/safety-standards-technical-guidance
 https://www.iaea.org/topics/nuclear-safety-and-security/department-of-nuclear-safety-and-security-webinars/an-introduction-to-the-iaea-safety-standards

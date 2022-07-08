@@ -20,11 +20,13 @@ Some of the requirements the EU imposes on nations with nuclear power programs a
 While the European Union does not necessarily come up with new guidelines, it provides a legal base to enforce the guidelines and safety standards of the International Atomic Energy Agency and other organisations through Euratom. It also enables and encourages international safety assessments, training and research.
 
 <br><br><br><br>
+
 ***
 
-https://energy.ec.europa.eu/topics/nuclear-energy/nuclear-safety_en
-- > https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.219.01.0042.01.ENG
-https://energy.ec.europa.eu/document/download/edfeae7e-d930-4b3b-a672-3ac89bdfcafc_en?filename=nuclearsafety_factsheet.pdf
-https://www.world-nuclear.org/information-library/country-profiles/others/european-union.aspx
-https://www.europarl.europa.eu/factsheets/en/sheet/62/nuclear-energy
+Sources:<br>
+https://energy.ec.europa.eu/topics/nuclear-energy/nuclear-safety_en<br>
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.219.01.0042.01.ENG<br>
+https://energy.ec.europa.eu/document/download/edfeae7e-d930-4b3b-a672-3ac89bdfcafc_en?filename=nuclearsafety_factsheet.pdf<br>
+https://www.world-nuclear.org/information-library/country-profiles/others/european-union.aspx<br>
+https://www.europarl.europa.eu/factsheets/en/sheet/62/nuclear-energy<br>
 https://energy.ec.europa.eu/topics/nuclear-energy_en
