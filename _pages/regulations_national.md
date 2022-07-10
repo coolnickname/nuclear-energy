@@ -17,7 +17,7 @@ A number of measures and precautions that the government can or has taken in ord
 - Closing drinking water pump sites.
 - Restrict the market of provisions that have a likelyhood of becoming contaminated.
 
-Every part of the process of a nuclear installation is thought out and regulated in the law "Wet kernenergie (Kew)" and ANVS ordinances. From the planning of the construction, to radioactive waste disposal and decades after the facility has been closed. All these regulations can be found on [the site of the ANVS](https://www.autoriteitnvs.nl/) and in the [law Kew](https://wetten.overheid.nl/BWBR0002667/2018-02-06).
+Every part of the process of a nuclear installation is thought out and regulated in the law "Kernenergie wet" (Kew) and ANVS ordinances. From the planning of the construction, to radioactive waste disposal and decades after the facility has been closed. All these regulations can be found on [the site of the ANVS](https://www.autoriteitnvs.nl/) and in the [law Kew](https://wetten.overheid.nl/BWBR0002667/2018-02-06).
 
 <br><br><br><br>
 
