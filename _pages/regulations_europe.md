@@ -16,6 +16,7 @@ Some of the requirements the EU imposes on nations with nuclear power programs a
 - Peer reviewing safety assessments of other member states.
 - Re-eveluating safety for nuclear power plants at least every 10 years.
 - Being transparant on the operation of nuclear power plants, both during normal operation and in the event of incidents.
+- A set maximum permitted level of radioactive contamination of food following a nuclear accident.
 
 While the European Union does not necessarily come up with new guidelines, it provides a legal base to enforce the guidelines and safety standards of the International Atomic Energy Agency and other organisations through Euratom. It also enables and encourages international safety assessments, training and research.
 
