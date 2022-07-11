@@ -9,8 +9,8 @@ nav_order: 1
 
 The Netherlands currently has one operational nuclear power plant in Borssele, which was accountable for 3% of the total electricity generated in the country in 2019. There are multiple other types of reactors that are used for research or the production of medical isotopes. These, and relevant nuclear reactors of neighbouring countries, are show in the map below:
 
-image: reactors.png
-Map of nuclear reactors in and near The Netherlands (dutch).
+![Map of nuclear reactors in and near The Netherlands (dutch).](../../assets/img/reactors.png)<br>
+Map of nuclear reactors in and near The Netherlands. The red circles are the evacuation areas in case of a disaster.  (Dutch)
 
 <br><br><br><br>
 
