@@ -15,6 +15,7 @@ Furthermore, the cabinet announced to postpone shutting down the nuclear reactor
 
 ***
 
+Sources:<br>
 https://www.rijksoverheid.nl/regering/coalitieakkoord-omzien-naar-elkaar-vooruitkijken-naar-de-toekomst/2.-duurzaam-land/klimaat-en-energie<br>
 https://www.rijksoverheid.nl/onderwerpen/duurzame-energie/opwekking-kernenergie
 
