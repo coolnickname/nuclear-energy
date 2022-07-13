@@ -11,14 +11,14 @@ The European Union strives to promote the highest standards of nuclear safety. I
 
 The EU decides its regulations based on publications and guidelines from the Western European Nuclear Regulators Association and the International Atomic Energy Agency, and lessons learned from historical nuclear disasters. These regulations have to be incorporated into national law of the member states.
 
-Some of the requirements the EU imposes on nations with nuclear power programs are:
-- Requiring a national regulatory authority that is independent from the government.
+Some requirements the EU imposes on nations with nuclear power programs are:
+- Requiring a national regulatory authority that is independent of the government.
 - Peer reviewing safety assessments of other member states.
-- Re-eveluating safety for nuclear power plants at least every 10 years.
-- Being transparant on the operation of nuclear power plants, both during normal operation and in the event of incidents.
+- Re-evaluating safety for nuclear power plants at least every 10 years.
+- Being transparent on the operation of nuclear power plants, both during normal operation and in the event of incidents.
 - A set maximum permitted level of radioactive contamination of food following a nuclear accident.
 
-While the European Union does not necessarily come up with new guidelines, it provides a legal base to enforce the guidelines and safety standards of the International Atomic Energy Agency and other organisations through Euratom. It also enables and encourages international safety assessments, training and research.
+While the European Union does not necessarily come up with new guidelines, it provides a legal base to enforce the guidelines and safety standards of the International Atomic Energy Agency and other organizations through Euratom. It also enables and encourages international safety assessments, training and research.
 
 <br><br><br><br>
 

@@ -9,7 +9,7 @@ nav_order: 1
 
 Citizens are generally opposed to nuclear power generation because of its destructive potential. Although the chance of a nuclear accident is small, people are quickly reminded of accidents like in Chernobyl or Fukushima when they think about the dangers. Another argument that can be made is about the waste it creates; the material is highly radioactive and will remain dangerous for potentially millions of years. While it can currently be stored safely, there are no guarantees for the future.
 
-This also raises the ethical concern that by utilizing nuclear power generation we are creating a burden for future generations by requiring them to safekeep the waste we produce. The same argument can be made for a potential nuclear meltdown; is it morally right for us to accept the risk that in case of a nuclear accident the environment will be uninhabitable for the next generations?
+This also raises the ethical concern that by utilizing nuclear power generation, we are creating a burden for future generations by requiring them to safekeep the waste we produce. The same argument can be made for a potential nuclear meltdown; is it morally right for us to accept the risk that in case of a nuclear accident the environment will be uninhabitable for the next generations?
 
 Some of these fears can be taken away, as nuclear reactors have never been safer and the standards they adhere to are more strict than ever. Not only that, but a lot of medium to high radioactive waste can be reduced to low radioactivity in a couple of decades by extracting the highly radioactive isotopes and reusing them in new fuel rods.
 

@@ -9,10 +9,10 @@ nav_order: 1
 
 The Netherlands currently has one operational nuclear power plant in Borssele, Zeeland. There are multiple other types of reactors that are used for research or the production of medical isotopes. These, and  other relevant nuclear reactors of neighbouring countries, are show in the map below:
 
-![Map of nuclear reactors in and near The Netherlands (dutch).](../../assets/img/reactors.png)<br>
+![Map of nuclear reactors in and near The Netherlands (Dutch).](../../assets/img/reactors.png)<br>
 Map of nuclear reactors in and near The Netherlands. The red circles are the evacuation areas in case of a disaster.  (Dutch)
 
-In 2019 only 3% of the total generated power in The Netherland came from nuclear power sources. In contrast, 76% was gained from fossil fuels and 13% from solar and wind energy. 
+In 2019 only 3% of the total generated power in The Netherlands came from nuclear power sources. In contrast, 76% was gained from fossil fuels and 13% from solar and wind energy. 
 
 The only entity allowed to store radioactive waste is COVRA, a company owned  by the Dutch state that has a storage facility for low to high radioactive materials in Nieuwdorp, Zeeland.
 
