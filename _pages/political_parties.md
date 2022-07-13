@@ -2,7 +2,7 @@
 layout: page
 title: Political parties
 permalink: /politics/parties/
-description: A list of all political parties in the Dutch parliament and their opinion on nuclear power during the 2021 elections.
+description: A list of most political parties in the Dutch parliament and their opinion on nuclear power during the 2021 elections.
 nav: false
 nav_order: 1
 display_categories: [For nuclear energy, Against nuclear energy, Undecided]
