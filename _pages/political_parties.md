@@ -9,7 +9,7 @@ display_categories: [For nuclear energy, Against nuclear energy, Undecided]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/political_parties.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
